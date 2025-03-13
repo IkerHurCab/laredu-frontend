@@ -1,4 +1,3 @@
-// src/components/SubmissionsList.tsx
 import React, { useEffect, useState } from "react";
 interface Submission {
     id: number;
